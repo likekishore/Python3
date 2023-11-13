@@ -3,12 +3,8 @@
 <h3>This repo contains basic challenges in python</h3>
 
 <ul>
-  <li>Patten printing</li>
-  <li>List, Tuples & Sets</li>
-  <li>Classes & Objects</li>
-  <li>Inheritance</li>
-  <li>Oops concepts</li>
-  <li>Exception handling</li>
-  <li>File handling</li>
-  <li>Advanced Concepts</li>
+  <li>Design Problems</li>
+  <li>Oops Problems</li>
+  <li>Advanced Problems</li>
+  <li>Mini Projects</li>
 </ul>
