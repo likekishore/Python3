@@ -1,6 +1,6 @@
-<h1> Basic Programming in Python3</h1>
+<h1>Programming in Python3</h1>
 
-<h3>This repo contains basic challenges in python</h3>
+<h3>This repo contains challenges in python</h3>
 
 <ul>
   <li>Design Problems</li>
